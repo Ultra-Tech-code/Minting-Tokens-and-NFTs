@@ -60,10 +60,8 @@ you should see a balance of 1.
   
 ### Confirm your sugar CLI version:
 
-   ```
-   sugar --version
-   `or`
-   ./sugar --version
+   ```bash
+    sugar --version
    ```
 Ensure your sugar version is the legacy version 1.x or reinstall.
 
