@@ -11,8 +11,8 @@ This guide provides step-by-step instructions for creating Solana NFTs and token
 ##  Clone the project
 - Open your terminal.
 ```bash
-    git clone https://github.com/metaplex-foundation/candy-machine-ui
-    cd spl-token-nft-mint
+    git clone https://github.com/Ultra-Tech-code/Minting-Tokens-and-NFTs
+    cd Minting-Tokens-and-NFTs
 ```
 ## Generate a Solana Keypair
 ```bash
